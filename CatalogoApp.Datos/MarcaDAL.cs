@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CatalogoApp.Entidades
+namespace CatalogoApp.Datos
 {
-    public class Class1
+    internal class MarcaDAL
     {
     }
 }

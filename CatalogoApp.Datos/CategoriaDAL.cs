@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CatalogoApp.Datos
 {
-    public class Class1
+    internal class CategoriaDAL
     {
     }
 }

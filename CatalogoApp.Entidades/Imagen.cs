@@ -8,5 +8,8 @@ namespace CatalogoApp.Entidades
 {
     internal class Imagen
     {
+        public int Id { get; set; }
+        public int idArticulo { get; set; }
+        public string ImagenUrl { get; set; }
     }
 }
