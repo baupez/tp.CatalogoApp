@@ -3,50 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04ED7833-E9D1-488D-AAAA-59C9D6AB19DB}|CatalogoApp.Logica\\CatalogoApp.Logica.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.logica\\articulosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ED7833-E9D1-488D-AAAA-59C9D6AB19DB}|CatalogoApp.Logica\\CatalogoApp.Logica.csproj|solutionrelative:catalogoapp.logica\\articulosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.datos\\marcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\marcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.datos\\articulodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\articulodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.datos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.entidades\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.datos\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.entidades\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BECE5F2C-47BD-4073-A7DD-1E2EEE4C3296}|CatalogoApp.Entidades\\CatalogoApp.Entidades.csproj|solutionrelative:catalogoapp.entidades\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.datos\\articulodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\articulodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.datos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.datos\\marcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|solutionrelative:catalogoapp.datos\\marcadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916D590F-592D-493E-9128-2A8549A4213B}|CatalogoApp.Presentacion\\CatalogoApp.Presentacion.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{916D590F-592D-493E-9128-2A8549A4213B}|CatalogoApp.Presentacion\\CatalogoApp.Presentacion.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{916D590F-592D-493E-9128-2A8549A4213B}|CatalogoApp.Presentacion\\CatalogoApp.Presentacion.csproj|solutionrelative:catalogoapp.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916D590F-592D-493E-9128-2A8549A4213B}|CatalogoApp.Presentacion\\CatalogoApp.Presentacion.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{916D590F-592D-493E-9128-2A8549A4213B}|CatalogoApp.Presentacion\\CatalogoApp.Presentacion.csproj|C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\catalogoapp.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{916D590F-592D-493E-9128-2A8549A4213B}|CatalogoApp.Presentacion\\CatalogoApp.Presentacion.csproj|solutionrelative:catalogoapp.presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CatalogoApp.Datos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D56D16-8B71-4BF0-A580-DC57C733BB89}|CatalogoApp.Datos\\CatalogoApp.Datos.csproj|c:\\users\\usuario\\onedrive\\desktop\\app\\catalogoapp1\\catalogoapp.datos\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,17 +57,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ArticulosService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Logica\\ArticulosService.cs",
+              "RelativeDocumentMoniker": "CatalogoApp.Logica\\ArticulosService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Logica\\ArticulosService.cs",
+              "RelativeToolTip": "CatalogoApp.Logica\\ArticulosService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T22:03:35.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Articulo.cs",
               "RelativeDocumentMoniker": "CatalogoApp.Entidades\\Articulo.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Articulo.cs",
               "RelativeToolTip": "CatalogoApp.Entidades\\Articulo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T22:01:47.755Z",
               "EditorCaption": ""
@@ -74,53 +88,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Imagen.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Imagen.cs",
-              "RelativeDocumentMoniker": "CatalogoApp.Entidades\\Imagen.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Imagen.cs",
-              "RelativeToolTip": "CatalogoApp.Entidades\\Imagen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "ArticuloDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\ArticuloDAL.cs",
+              "RelativeDocumentMoniker": "CatalogoApp.Datos\\ArticuloDAL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\ArticuloDAL.cs",
+              "RelativeToolTip": "CatalogoApp.Datos\\ArticuloDAL.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwEkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T21:59:42.777Z",
+              "WhenOpened": "2026-05-22T21:54:06.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Categoria.cs",
               "RelativeDocumentMoniker": "CatalogoApp.Entidades\\Categoria.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Categoria.cs",
               "RelativeToolTip": "CatalogoApp.Entidades\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T21:57:03.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Marca.cs",
-              "RelativeDocumentMoniker": "CatalogoApp.Entidades\\Marca.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Marca.cs",
-              "RelativeToolTip": "CatalogoApp.Entidades\\Marca.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MarcaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\MarcaDAL.cs",
+              "RelativeDocumentMoniker": "CatalogoApp.Datos\\MarcaDAL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\MarcaDAL.cs",
+              "RelativeToolTip": "CatalogoApp.Datos\\MarcaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T21:55:22.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArticuloDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\ArticuloDAL.cs",
-              "RelativeDocumentMoniker": "CatalogoApp.Datos\\ArticuloDAL.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\ArticuloDAL.cs",
-              "RelativeToolTip": "CatalogoApp.Datos\\ArticuloDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T21:54:06.71Z",
+              "WhenOpened": "2026-05-22T21:52:30.996Z",
               "EditorCaption": ""
             },
             {
@@ -131,27 +132,40 @@
               "RelativeDocumentMoniker": "CatalogoApp.Datos\\CategoriaDAL.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\CategoriaDAL.cs",
               "RelativeToolTip": "CatalogoApp.Datos\\CategoriaDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwE8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T21:53:21.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MarcaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\MarcaDAL.cs",
-              "RelativeDocumentMoniker": "CatalogoApp.Datos\\MarcaDAL.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\MarcaDAL.cs",
-              "RelativeToolTip": "CatalogoApp.Datos\\MarcaDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Imagen.cs",
+              "RelativeDocumentMoniker": "CatalogoApp.Entidades\\Imagen.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Imagen.cs",
+              "RelativeToolTip": "CatalogoApp.Entidades\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T21:52:30.996Z",
+              "WhenOpened": "2026-05-22T21:59:42.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Marca.cs",
+              "RelativeDocumentMoniker": "CatalogoApp.Entidades\\Marca.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Entidades\\Marca.cs",
+              "RelativeToolTip": "CatalogoApp.Entidades\\Marca.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:55:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Presentacion\\App.config",
               "RelativeDocumentMoniker": "CatalogoApp.Presentacion\\App.config",
@@ -159,12 +173,11 @@
               "RelativeToolTip": "CatalogoApp.Presentacion\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-05-22T21:34:24.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T21:34:24.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "CatalogoApp.Datos\\DatabaseHelper.cs",
@@ -177,27 +190,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CatalogoApp.Datos",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\CatalogoApp.Datos.csproj",
               "RelativeDocumentMoniker": "CatalogoApp.Datos\\CatalogoApp.Datos.csproj",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Datos\\CatalogoApp.Datos.csproj",
               "RelativeToolTip": "CatalogoApp.Datos\\CatalogoApp.Datos.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-22T21:25:47.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T21:25:47.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Presentacion\\Form1.cs",
               "RelativeDocumentMoniker": "CatalogoApp.Presentacion\\Form1.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\app\\CatalogoApp1\\CatalogoApp.Presentacion\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "CatalogoApp.Presentacion\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T21:15:15.155Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-05-22T21:15:15.155Z"
             }
           ]
         }
