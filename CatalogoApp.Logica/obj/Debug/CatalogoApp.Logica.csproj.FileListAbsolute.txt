@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\bin\Debug\CatalogoApp.Logica.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\bin\Debug\CatalogoApp.Logica.pdb
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\bin\Debug\CatalogoApp.Datos.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\bin\Debug\CatalogoApp.Entidades.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\bin\Debug\CatalogoApp.Datos.pdb
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\bin\Debug\CatalogoApp.Entidades.pdb
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\obj\Debug\CatalogoApp.Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\obj\Debug\CatalogoApp.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\obj\Debug\Catalogo.C413B0A9.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\obj\Debug\CatalogoApp.Logica.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Logica\obj\Debug\CatalogoApp.Logica.pdb

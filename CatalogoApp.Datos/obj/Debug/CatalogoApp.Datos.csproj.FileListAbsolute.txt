@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\bin\Debug\CatalogoApp.Datos.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\bin\Debug\CatalogoApp.Datos.pdb
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\bin\Debug\CatalogoApp.Entidades.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\bin\Debug\CatalogoApp.Entidades.pdb
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\obj\Debug\CatalogoApp.Datos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\obj\Debug\CatalogoApp.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\obj\Debug\Catalogo.7B6AA6FC.Up2Date
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\obj\Debug\CatalogoApp.Datos.dll
+C:\Users\Usuario\OneDrive\Desktop\app\CatalogoApp1\CatalogoApp.Datos\obj\Debug\CatalogoApp.Datos.pdb

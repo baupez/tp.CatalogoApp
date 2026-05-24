@@ -1,21 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Configuration;
 using System.Data.SqlClient;
-using System.Configuration;
 
 namespace CatalogoApp.Datos
 {
-    public class DatabaseHelper
+    public static class DatabaseHelper
     {
         private static string connectionString;
+
         static DatabaseHelper()
         {
-            connectionString = ConfigurationManager.ConnectionStrings["CatalogoAppDB"].ConnectionString;
+            connectionString = ConfigurationManager.ConnectionStrings["CatalogoDB"].ConnectionString;
         }
-    public static SqlConnection GetConnection()
+
+        public static SqlConnection GetConnection()
         {
             return new SqlConnection(connectionString);
         }
